@@ -1,0 +1,76 @@
+//sección 1
+.section{
+    .section__h2{
+        font-size: $veiticincopx;
+        text-align: center;
+        padding-bottom: $veintepx;
+    }
+    .section__img{
+        width: $cienporciento;
+    }
+    .section__p{
+        font-size: $veintepx;
+        padding-top: 40px;
+    }
+    .section__pizq{
+        padding-top:$veintepx;
+    }
+    .section__pizq{
+        font-size: $quincepx;
+        text-align: justify;
+        padding-bottom: $veintepx;
+        font-weight: 300;
+    }
+    .sectio__tags{
+        padding-top: $diezpx;
+    }
+    .section__item{
+        display: inline-block;
+        float: left;
+        padding-right: 12px;
+        padding-top: $diezpx;
+        padding-bottom: $veintepx;
+        font-size: $veintepx;
+        color: $colorRosa;
+        font-weight: 900;
+    }
+    .secction__Dest{
+        padding-top: $diezpx;
+       
+    }
+    .section__imgizq{
+        width: $cienporciento;
+    }
+    .section__subir{
+        margin-top: -40px;
+        position: relative;
+    }
+}
+
+.section3{  
+    .section3__box{
+        .section3__hr{
+            border: 2px solid blueviolet ;
+        }
+        .section3__fila{
+            text-align: center;
+            .section3__h2{
+                padding-top:$veintepx ;
+                padding-bottom: $veintepx;
+            }
+            .section3__p{
+                padding-bottom: 35px;
+            }
+            .section3__input{
+                padding:  $diezpx;
+                margin-bottom: 20px;
+            }
+            .section3__button{
+                background-color: blueviolet;
+                padding:  $diezpx;
+                border-radius: 5px;
+                color: white;
+            }
+        }
+    }
+}

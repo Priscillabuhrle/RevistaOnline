@@ -1,0 +1,17 @@
+.footer{
+    clear: left;
+    .footer__fila{
+        clear: left;
+    }
+    .footer__p{
+        clear: left;
+        font-size: $veintepx;
+        text-align: center;
+        font-weight: 900;
+        background-color: black;
+        color: white;
+        height: 100px;
+        padding-top: 40px;
+    }
+
+}
